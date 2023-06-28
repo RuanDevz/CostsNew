@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    gap: 50px;
+    background-color: black;
+    height: 15vh;
+}
+
+.container li{
+    list-style-type: none;
+    color: #fff;
+}
+
+.container li:hover{
+    color: #ffbb33;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+    padding: 1em;
+    background-color: black;
+}
+
+.header li{
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+.header li a {
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.header li a:hover{
+    color: #ffbb33;
+}
+
+
+.container_logo img{
+    margin-right: 130vh;
+}
