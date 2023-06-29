@@ -1,0 +1,39 @@
+.container_home{
+    width: 100%;
+    text-align: center;
+    padding: 4em;
+}
+
+.container_home h1{
+    font-size: 2.5em;
+    margin-bottom: 15px;
+}
+
+.container_home h1 span{
+    color: #ffbb33;
+    background-color: black;
+    padding: .1em .2em;
+}
+
+.container_home p {
+    margin-bottom: 55px;
+}
+
+.container_home img{
+    width: 500px;
+}
+
+.container_home a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.2em;
+    background-color: black;
+    padding: 0.7em;
+    color: #fff;
+}
+
+.container_home a:hover{
+    color: #ffbb33;
+    transition: .5s;
+    cursor: pointer;
+}

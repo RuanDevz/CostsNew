@@ -1,0 +1,15 @@
+.newproject_container{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.newproject_container h1{
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    padding-top: 60px;
+}
+
+.newproject_container p{
+    margin-bottom: 30px;
+}
